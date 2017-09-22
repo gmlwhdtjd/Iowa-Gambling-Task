@@ -9,15 +9,15 @@ Nanum font provided by Naver is applied to this program. 프로그램에는 네�
 # Image Sources
 
 smileEmoji.png<br>
-Description	English: A colored Emoji from Twemoji v2 project
-Date			23 May 2017
-Source		https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f642.svg
-Author		Twitter
+Description	English: A colored Emoji from Twemoji v2 project<br>
+Date : 			23 May 2017<br>
+Source : 		https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f642.svg<br>
+Author : 		Twitter<br>
 
-cryEmoji.png
-Description	English: A colored Emoji from Twemoji v2 project
-Date      23 May 2017
-Source    https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f641.svg
-Author    Twitter
+cryEmoji.png<br>
+Description	English: A colored Emoji from Twemoji v2 project<br>
+Date :       23 May 2017<br>
+Source :     https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f641.svg<br>
+Author :     Twitter<br>
 
 Copyright © 2017. Lee Hui-Jong All rights reserved.
