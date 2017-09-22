@@ -8,7 +8,7 @@ Nanum font provided by Naver is applied to this program. 프로그램에는 네�
 
 # Image Sources
 
-smileEmoji.png
+smileEmoji.png<br>
 Description	English: A colored Emoji from Twemoji v2 project
 Date			23 May 2017
 Source		https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f642.svg
