@@ -16,8 +16,8 @@ Author		Twitter
 
 cryEmoji.png
 Description	English: A colored Emoji from Twemoji v2 project
-Date			23 May 2017
-Source		https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f641.svg
-Author		Twitter
+Date      23 May 2017
+Source    https://github.com/twitter/twemoji/blob/gh-pages/2/svg/1f641.svg
+Author    Twitter
 
 Copyright © 2017. Lee Hui-Jong All rights reserved.
