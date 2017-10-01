@@ -18,7 +18,7 @@ import javax.swing.SwingUtilities;
 public class MainFrame extends JFrame {
 	private static final long serialVersionUID = -2490080630765489433L;
 
-	String programVersion = "1.0.0 Beta";
+	String programVersion = "1.0.0";
 	
 	Font font;
 	Preferences prefs = Preferences.userNodeForPackage(MainFrame.class);
